@@ -7,3 +7,5 @@
 下载style.css放入对应的目录，重新加载即可
 - windows在`users/你的用户名/AppData/Roaming/icalingua/`目录下
 - linux在`~/.config/icalingua/`目录下
+# 注意
+不支持暗色模式
